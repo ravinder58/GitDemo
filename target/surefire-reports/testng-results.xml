@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+      <class name="TestCases.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:TestCases.SeleniumTest@73f792cf]" name="BrowserAutomation" duration-ms="0" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:TestCases.SeleniumTest@73f792cf]" name="elementsUI" duration-ms="0" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- TestCases.SeleniumTest -->
+      <class name="TestCases.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:TestCases.RestAPITest@6b2fad11]" name="deleteTwitter" duration-ms="12" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:TestCases.RestAPITest@6b2fad11]" name="postJira" duration-ms="0" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- TestCases.RestAPITest -->
+      <class name="TestCases.AppiumTest">
+        <test-method status="PASS" signature="MobileTesting()[pri:0, instance:TestCases.AppiumTest@79698539]" name="MobileTesting" duration-ms="0" started-at="2019-03-31T22:38:38Z" finished-at="2019-03-31T22:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTesting -->
+      </class> <!-- TestCases.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
