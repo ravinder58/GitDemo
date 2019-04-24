@@ -19,5 +19,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUIdisplay");	
 	}
+	
+	@Test
+	public void elementsUIDisplaygitx()
+	{
+		System.out.println("elementsUIdisplaygitx");	
+	}
 }
 
