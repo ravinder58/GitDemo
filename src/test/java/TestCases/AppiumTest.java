@@ -13,4 +13,12 @@ public class AppiumTest {
 		System.out.println("Mobile Testing is continuing");
 		
 	}
+	@Test
+	public void MobileTesting2()
+	{
+		System.out.println("MobileTesting2");
+		System.out.println("Mobile Testing2 underway");
+		System.out.println("Mobile Testing2 is continuing");
+		
+	}
 }
