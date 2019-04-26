@@ -1,8 +1,8 @@
+Alphabets
 a
 b
 c
 d
-c
 e
 f
 g
